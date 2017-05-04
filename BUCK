@@ -1,5 +1,5 @@
 cxx_library(
-  name = 'libjpeg',
+  name = 'jpeg',
   header_namespace = '',
   exported_headers = subdir_glob([
     ('', '*.h'),
